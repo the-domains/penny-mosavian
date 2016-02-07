@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Educational Consultant  & English Language Specialist]]></title>
         <description><![CDATA[Educational Consultant  & English Language Specialist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/penny-mosavian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 23:21:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 07 Feb 2016 23:26:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/penny-mosavian/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Hi and a warm welcome.]]></title>
-            <description><![CDATA[<h1>Hi and a warm welcome.</h1>]]></description>
-            <link>undefinedc8373b03-0ce4-4218-86ce-56bffc6fed21/index.html</link>
+            <title><![CDATA[Hi and a warm welcome. If you are interested in quality teaching, learning and success, you are in the right place.]]></title>
+            <description><![CDATA[<h1>Hi and a warm welcome. If you are interested in quality teaching, learning and success, you are in the right place.</h1>]]></description>
+            <link>https://thegrid.ai/penny-mosavian/c8373b03-0ce4-4218-86ce-56bffc6fed21/index.html</link>
             <guid isPermaLink="false">c8373b03-0ce4-4218-86ce-56bffc6fed21</guid>
-            <pubDate>Sun, 07 Feb 2016 23:20:58 GMT</pubDate>
+            <pubDate>Sun, 07 Feb 2016 23:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>

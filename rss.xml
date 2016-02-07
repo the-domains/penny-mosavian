@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Educational Consultant  & English Language Specialist]]></title>
+        <description><![CDATA[Educational Consultant  & English Language Specialist]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 07 Feb 2016 23:21:06 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hi and a warm welcome.]]></title>
+            <description><![CDATA[<h1>Hi and a warm welcome.</h1>]]></description>
+            <link>undefinedc8373b03-0ce4-4218-86ce-56bffc6fed21/index.html</link>
+            <guid isPermaLink="false">c8373b03-0ce4-4218-86ce-56bffc6fed21</guid>
+            <pubDate>Sun, 07 Feb 2016 23:20:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
